@@ -5,7 +5,7 @@ module.exports = {
     title: 'Lohith Kola',
     description:
       'Lohith Kola is a B.Tech CSE student at IIIT Hyderabad focused on ML-driven products, full-stack apps, and systems software.',
-    siteUrl: 'https://example.com', // No trailing slash allowed!
+    siteUrl: 'https://lohithkola.vercel.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
