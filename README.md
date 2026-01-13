@@ -36,5 +36,5 @@ npm run serve
 ## Notes
 
 - Resume file: `static/resume.pdf` (source: `resume_v1.pdf`).
-- Site URL placeholder: update `gatsby-config.js` once you have a domain.
+- Site URL: `https://lohithkola.vercel.app/` (update `gatsby-config.js` when the domain changes).
 - Manifest icon: `src/images/logo.png`.
